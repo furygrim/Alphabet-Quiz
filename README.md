@@ -6,10 +6,11 @@ A machine learning web app that helps users practice writing English alphabet ch
 
 ## demo
 <img alt="demo of practice mode" src="./templates/demo.png" height="400" width="400">
-### 1) practice mode
+
+### 1) Practice mode
 <img alt="demo of practice mode" src="./templates/demoprac.png" height="400" width="400">
 
-### 2) training mode
+### 2) Training mode
 <img alt="demo of quiz mode" src="././templates/demotrain.png" height="500" width="400">
 
 
@@ -18,7 +19,7 @@ A machine learning web app that helps users practice writing English alphabet ch
 
 ## Run on your machine
 
-### 1) environment setup
+###  1) environment setup
 * clone the repository.
 * create and start a virtual environment.
 * install the following modules:
@@ -52,4 +53,4 @@ A machine learning web app that helps users practice writing English alphabet ch
 ## other notes
 
 
-* i'm the only one who trained this model (so far), so it might be hypersensitive to my handwriting
+* I am the only one who trained this model (so far), so it might be hypersensitive to my handwriting
