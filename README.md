@@ -5,12 +5,12 @@ A machine learning web app that helps users practice writing English alphabet ch
 ---
 
 ## demo
-
+<img alt="demo of practice mode" src="./templates/demo.png" height="400" width="400">
 ### 1) practice mode
-<img alt="demo of practice mode" src="./" height="400" width="400">
+<img alt="demo of practice mode" src="./templates/demoprac.png" height="400" width="400">
 
-### 2) quiz mode
-<img alt="demo of quiz mode" src="./" height="500" width="400">
+### 2) training mode
+<img alt="demo of quiz mode" src="././templates/demotrain.png" height="500" width="400">
 
 
 
