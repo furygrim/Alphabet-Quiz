@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-labels = np.load("data/labels.npy")
+labels = np.load("../data/labels.npy")
 
 data = {}
 for label in labels:
